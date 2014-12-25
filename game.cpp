@@ -101,7 +101,7 @@ void Game::drawIntro()
 	cout << "  You are ";
 
 	setTextColor("yellow");
-	cout << "Fipfop McMerchant";
+	cout << "Fip Fop McMurchannt";
 	setTextColor("NULL");
 
 	cout << ", youngest in a long line of ";
