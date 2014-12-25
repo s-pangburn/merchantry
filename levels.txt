@@ -1,0 +1,12 @@
+7 10
+f b . . f . . . . f
+. . f . . . f . . .
+. h . . f . . . . .
+. f . . p . . b . .
+. . . f . . f . . f
+. . b . f . . . h .
+f . . . h . . . f .
+
+// b = bandit, f = farmer/villager, h = hero/adventurer, 
+// . = blank space, p = PLAYER STARTING POSITION
+// The program doesn't actually read this far, haha.
